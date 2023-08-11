@@ -1,0 +1,4 @@
+﻿  FastBankingManagement.cpp
+C:\Users\Computer\Desktop\Question_02\Question_02\FastBankingManagement.cpp(110,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Computer\Desktop\Question_02\Question_02\FastBankingManagement.cpp(121,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Question_02.vcxproj -> C:\Users\Computer\Desktop\Question_02\x64\Debug\Question_02.exe
